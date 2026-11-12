@@ -92,6 +92,20 @@ A prototype exploring AI-assisted emergency incident reporting and response coor
 
 ---
 
+### Technologies I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00897B?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge)
+
+
 ## 🧰 Technical Skills & Tools
 
 | Area | Technologies |
