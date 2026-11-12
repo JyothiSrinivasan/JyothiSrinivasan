@@ -48,7 +48,7 @@ An AI-assisted cyber threat intelligence project exploring OSINT collection, thr
 
 **Tech:** Python · Ollama · FAISS · Streamlit · Wazuh · Splunk · OSINT
 
-*Repository: ThreatLens-CYRA*
+[**View Source Code**](https://github.com/JyothiSrinivasan/ThreatLens-CYRA)
 
 ---
 
