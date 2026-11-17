@@ -127,13 +127,13 @@ A prototype exploring AI-assisted emergency incident reporting and response coor
 - **MBA — Finance & Accounting Management + Data Science**  
   Amity University Online | In Progress
 
-- **Postgraduate Program — AI & ML**  
-  IIIT Bangalore
-
-- **AI / GenAI-Powered Cybersecurity**  
+- **Postgraduate Certification - AI, GenAI-Powered Cybersecurity**  
   IIT Roorkee × Futurense
 
-- **Postgraduate Certificate — Cybersecurity**  
+  - **Postgraduate Diploma — AI & ML**  
+  IIIT Bangalore x UpGrad
+
+- **Postgraduate Certification — Cybersecurity**  
   Imarticus Learning
 
 - **Bachelor of Commerce (Computers)**  
